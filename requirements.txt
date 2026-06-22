@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-community
+langsmith
+openai
+groq
+google-generativeai
+mistralai
+python-dotenv
